@@ -1,7 +1,7 @@
 Test from PortaOne. "Become A Developer 2024".
 
 Program counts maximal, minimal, average, median number.
-Also finds the largest minimal and maximal sequences of numbers from a whole file.
+Also finds the largest sequences of numbers that decrease or increase from a whole file.
 
 To set own file with numbers, you should set it full path in file.properties in file.path. Please enter a path like this:
 'Disk name':/.../'File name'. Example: C:/Users/alapu/Downloads/10m.txt.
